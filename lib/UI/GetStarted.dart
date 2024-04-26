@@ -14,7 +14,8 @@ class GetStarted extends StatelessWidget {
         body: Container(
       width: size.width,
       height: size.height,
-      color: myUtils.primaryColor.withOpacity(0.5),
+      //color: myUtils.primaryColor.withOpacity(0.5),
+      color: Colors.white70,
       child: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
