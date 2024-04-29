@@ -37,6 +37,7 @@ class _HomeState extends State<Home> {
   // API call URL
   String searchWeatherUrl =
       'https://api.openweathermap.org/data/2.5/weather'; // Weather API URL
+  //'https://pro.openweathermap.org/data/2.5/weather';
 
   @override
   void initState() {
@@ -214,7 +215,8 @@ class _HomeState extends State<Home> {
                                 ..shader = LinearGradient(
                                   colors: <Color>[
                                     Color(0xffABCFF2),
-                                    Color(0xff9AC6F3)
+                                    //Color(0xff9AC6F3)
+                                    Colors.white
                                   ],
                                 ).createShader(
                                     Rect.fromLTWH(0.0, 0.0, 200.0, 70.0)),
