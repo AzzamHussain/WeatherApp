@@ -62,7 +62,6 @@ You can view the video demonstration of the application using the link below:
 
 [Watch Video Demonstration](https://drive.google.com/file/d/1KjFupU74EXSZofVUkHIK8G9TSmM2IFKr/view?usp=drive_link)
 
-*(Replace `your-video-id` with the actual ID of your video file on Google Drive.)*
 
 ---
 
